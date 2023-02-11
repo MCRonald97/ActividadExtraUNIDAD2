@@ -1,20 +1,24 @@
 UNIDAD2 RESUMEN DE TEMAS 
 
-Los conceptos b醩icos para iniciar a programar incluyen el conocimiento de la sintaxis del lenguaje de programaci髇 que se va a utilizar, la comprensi髇 de los conceptos de programaci髇 como variables, funciones, estructuras de control y algoritmos, y la capacidad para resolver problemas de manera l骻ica y sistem醫ica.
+# RONALDO DELGAGO ORTEGA NUBERMO DE CARNET:23001228 
 
-Los tipos de datos y operadores son fundamentales en la programaci髇, ya que permiten almacenar y manipular informaci髇 en el programa. Los tipos de datos comunes incluyen enteros, flotantes, booleanos, caracteres y cadenas de texto. Los operadores se utilizan para realizar operaciones matem醫icas y l骻icas sobre estos tipos de datos.
+## la Licencia Apache es una buena opci贸n para proyectos alojados en GitHub que desean proporcionar a los usuarios una amplia libertad para usar, modificar y distribuir el software, al tiempo que brindan protecci贸n contra demandas de patentes y reconocen las contribuciones de los desarrolladores.
 
-Las estructuras de control condicionales permiten que el programa tome decisiones en funci髇 de ciertas condiciones. Las estructuras condicionales m醩 comunes son la instrucci髇 "if" y la instrucci髇 "if-else". Estas estructuras permiten al programa evaluar si una condici髇 es verdadera o falsa y ejecutar diferentes acciones en consecuencia.
+Los conceptos b谩sicos para iniciar a programar incluyen el conocimiento de la sintaxis del lenguaje de programaci贸n que se va a utilizar, la comprensi贸n de los conceptos de programaci贸n como variables, funciones, estructuras de control y algoritmos, y la capacidad para resolver problemas de manera l贸gica y sistem谩tica.
 
-Las estructuras de control de bucles permiten que el programa repita una tarea varias veces hasta que se cumpla una condici髇. Los bucles m醩 comunes son el "while" y el "for". Estas estructuras permiten al programa realizar tareas repetitivas de manera eficiente y con menos c骴igo.
+Los tipos de datos y operadores son fundamentales en la programaci贸n, ya que permiten almacenar y manipular informaci贸n en el programa. Los tipos de datos comunes incluyen enteros, flotantes, booleanos, caracteres y cadenas de texto. Los operadores se utilizan para realizar operaciones matem谩ticas y l贸gicas sobre estos tipos de datos.
+
+Las estructuras de control condicionales permiten que el programa tome decisiones en funci贸n de ciertas condiciones. Las estructuras condicionales m谩s comunes son la instrucci贸n "if" y la instrucci贸n "if-else". Estas estructuras permiten al programa evaluar si una condici贸n es verdadera o falsa y ejecutar diferentes acciones en consecuencia.
+
+Las estructuras de control de bucles permiten que el programa repita una tarea varias veces hasta que se cumpla una condici贸n. Los bucles m谩s comunes son el "while" y el "for". Estas estructuras permiten al programa realizar tareas repetitivas de manera eficiente y con menos c贸digo.
 
 
 UNIDAD 2 COMO SE VEN EN LA VIDA DIARIA 
 
-Los conceptos b醩icos para iniciar a programar son 鷗iles en la vida real para automatizar tareas, crear aplicaciones, dise馻r sistemas y desarrollar soluciones innovadoras para resolver problemas. Estos conocimientos son especialmente importantes en trabajos relacionados con la inform醫ica, la ingenier韆 y la tecnolog韆.
+Los conceptos b谩sicos para iniciar a programar son 煤tiles en la vida real para automatizar tareas, crear aplicaciones, dise帽ar sistemas y desarrollar soluciones innovadoras para resolver problemas. Estos conocimientos son especialmente importantes en trabajos relacionados con la inform谩tica, la ingenier铆a y la tecnolog铆a.
 
-Los tipos de datos y operadores son fundamentales en la vida real en la programaci髇 de aplicaciones, juegos y sistemas. Por ejemplo, al dise馻r una aplicaci髇 m髒il de finanzas, se utilizar醤 diferentes tipos de datos y operadores para almacenar y manipular informaci髇 de cuentas bancarias, transacciones y saldos.
+Los tipos de datos y operadores son fundamentales en la vida real en la programaci贸n de aplicaciones, juegos y sistemas. Por ejemplo, al dise帽ar una aplicaci贸n m贸vil de finanzas, se utilizar谩n diferentes tipos de datos y operadores para almacenar y manipular informaci贸n de cuentas bancarias, transacciones y saldos.
 
-Las estructuras de control condicionales son importantes en la vida real para tomar decisiones en situaciones espec韋icas. Por ejemplo, una aplicaci髇 de navegaci髇 puede utilizar estructuras condicionales para ofrecer diferentes rutas seg鷑 el tr醘ico, la distancia y las preferencias del usuario.
+Las estructuras de control condicionales son importantes en la vida real para tomar decisiones en situaciones espec铆ficas. Por ejemplo, una aplicaci贸n de navegaci贸n puede utilizar estructuras condicionales para ofrecer diferentes rutas seg煤n el tr谩fico, la distancia y las preferencias del usuario.
 
-Las estructuras de control de bucles son 鷗iles en la vida real para repetir tareas que se deben realizar varias veces. Por ejemplo, una aplicaci髇 de edici髇 de im醙enes puede utilizar un bucle para aplicar un filtro a una imagen y repetir el proceso para todas las im醙enes de una carpeta. Los bucles tambi閚 se utilizan en tareas de procesamiento de datos a gran escala, como el an醠isis de datos cient韋icos o el procesamiento de grandes cantidades de informaci髇 financiera.
+Las estructuras de control de bucles son 煤tiles en la vida real para repetir tareas que se deben realizar varias veces. Por ejemplo, una aplicaci贸n de edici贸n de im谩genes puede utilizar un bucle para aplicar un filtro a una imagen y repetir el proceso para todas las im谩genes de una carpeta. Los bucles tambi茅n se utilizan en tareas de procesamiento de datos a gran escala, como el an谩lisis de datos cient铆ficos o el procesamiento de grandes cantidades de informaci贸n financiera.
